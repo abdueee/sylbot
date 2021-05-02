@@ -1,0 +1,2 @@
+# sylbot
+Educational Discord Bot
